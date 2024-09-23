@@ -2,9 +2,8 @@
 
 This is a simple web app that allows you to view the status of trains in Thailand. Using Data from [ttsview.railway.co.th](https://ttsview.railway.co.th)
 
-## Go to app
-
-[Comming Soon]()
+## Live Demo
+[Go to App](https://thai-trains-view.vercel.app/)
 
 ## Roadmap
 

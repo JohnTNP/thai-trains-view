@@ -4,13 +4,9 @@ import { IDebug, ITrainPosition } from "./interfaces";
 
 export class TrainSystem implements ITrainPosition, IDebug {
     private _train: Train;
-    private _x: number;
-    private _y: number;
 
     constructor(train: Train) {
         this._train = train;
-        this._x = 0;
-        this._y = 0;
     }
 
     public getDebugInfo(): string {

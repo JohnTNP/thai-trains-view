@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+        {
+            "source": "/api/checktrain",
+            "destination": "https://ttsview.railway.co.th/checktrain_2023.php"
+        }
+    ]
+}
